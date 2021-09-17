@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ExchangeRates</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="rates">Валюты</string>
+    <string name="calculator">Калькулятор</string>
+    <string name="name">Имя</string>
+    <string name="code">Код</string>
+    <string name="nominal">Номинал</string>
+    <string name="value">Стоимость</string>
+    <string name="refresh_rate_list">Обновить список валют</string>
+    <string name="rub">RUB</string>
+    <string name="text_rub">Российский рубль</string>
+    <string name="eur">EUR</string>
+    <string name="zero">0</string>
+    <string name="selected_rate">Выбранная валюта</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

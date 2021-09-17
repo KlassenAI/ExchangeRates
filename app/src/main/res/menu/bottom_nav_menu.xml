@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_rates"
+        android:icon="@drawable/ic_list"
+        android:title="@string/rates" />
+
+    <item
+        android:id="@+id/navigation_calculator"
+        android:icon="@drawable/ic_calculate"
+        android:title="@string/calculator" />
+
+</menu>
