@@ -24,8 +24,6 @@ data class Rate(
 ) {
     fun getValueInRubles(rubles: Double): String {
         val d = rubles * nominal / value
-        val doub = d.toBigDecimal()
-        Log.e("tag", doub.toString())
         val df = DecimalFormat("#.####")
         df.roundingMode = RoundingMode.HALF_EVEN
         return df.format(d).replace(",", ".")
